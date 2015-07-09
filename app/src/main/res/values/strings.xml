@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bomby</string>
+
+    <string name="action_settings">Exit</string>
+</resources>
